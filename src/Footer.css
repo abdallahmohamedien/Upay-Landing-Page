@@ -1,0 +1,143 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 100px 260px 0px;
+    gap: 20px;
+    position: absolute;
+    width: 1920px;
+    height: 490.53px;
+    left: 0px;
+    top: 3614px;
+    background: #C3EAD8;
+    border-bottom: 1px solid #93D9B9;
+}
+.vector img{
+   width: 50px;
+    margin-top: -60px;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px 0px 40px;
+    width: 1400px;
+    height: 272px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.company{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+    width: 220px;
+    height: 232px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 180px;
+    height: 114px;
+    margin-right: 600px ;
+}
+.box h1{
+    width: 112px;
+    height: 24px;
+    font-family: 'Nexa Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+.box p{
+    width: 168px;
+    height: 20px;
+    font-family: 'Nexa Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.jump{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 82px;
+    height: 184px;
+    margin-left: 400px;
+    margin-top: -124px;
+}
+.jump h1{
+    width: 82px;
+    height: 24px;
+    font-family: 'Nexa Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+.jump a{
+    width: 82px;
+    height: 20px;
+    
+    font-family: 'Nexa Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    
+    
+    color: #000000;
+}
+a:hover{
+    color: #4b2193;
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    width: 82px;
+    height: 140px;
+}
+.box0{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 180px;
+    height: 114px;
+    margin-left: 700px;
+    margin-top: -187px;
+}
+.box0 h1{
+    width: 112px;
+    height: 24px;
+    font-family: 'Nexa Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+.box0 p{
+    width: 168px;
+    height: 20px;
+    font-family: 'Nexa Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
