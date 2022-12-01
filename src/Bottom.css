@@ -1,0 +1,12 @@
+.bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 4100px;
+    background: #C3EAD8;
+}
