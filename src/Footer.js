@@ -1,5 +1,5 @@
 import React , {Component}  from "react";
-import { FaInstagram ,FaLinkedin , FaFacebook,FaTwitter} from "react-icons/fa";
+import { FaInstagram ,FaLinkedin , FaFacebook,FaTwitter,FaGooglePlay, FaAppStore} from "react-icons/fa";
 import logo from './Vector.png';
 import './Footer.css';
 class Footer extends Component{
@@ -44,11 +44,15 @@ class Footer extends Component{
                         <div className="box0">
                             <h1>Legal</h1>
                             <div className="term">
-                                <p>Terms of Use</p>
-                                <p>Privacy Policy</p>
+                                <a href="#">Terms of Use</a><br></br>
+                                <a href="#">Privacy Policy</a>
                             </div>
-                            <h1>Get The App</h1>
-                           
+                            <div className="download">
+                                <h1>Get The App</h1>
+                                <div className="app">
+                                    <h1><a href=""><FaGooglePlay /></a> <span></span><a href=""><FaAppStore /></a></h1>
+                                </div>
+                            </div>
                         </div>
                     </div>    
                 </div>

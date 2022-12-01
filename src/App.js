@@ -5,6 +5,7 @@ import Hero1 from './Hero1';
 import Hero2 from './Hero2';
 import Connect from './Connect';
 import Footer from  './Footer';
+import Bottom from './Bottom';
 import './App.css';
 
 
@@ -18,6 +19,7 @@ function App() {
        <Hero2 />
        <Connect />
        <Footer />
+       <Bottom />
     </div>
   );
 }

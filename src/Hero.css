@@ -48,28 +48,24 @@
     font-size: 18px;
     line-height: 23px;
     color: #000000;
-    flex: none;
-    order: 1;
     align-self: stretch;
-    flex-grow: 0;
 }
 .btn-download{
     display: flex;
-    flex-direction: row;
     align-items: center;
     padding: 20px 40px;
-    gap: 10px;
-    width: 246px;
+    width: 240px;
     height: 67.99px;
     background: #1D191F;
     border-radius: 32px;
-    flex: none;
-    order: 1;
-    flex-grow: 0;
     z-index: 1;
 }
+.btn-download:hover{
+    background-color: #000000;
+}
 .btn-download a{
-    color:aliceblue
+    color:aliceblue;
+    margin: 10px;
 }
 .btn-download a:hover{
     color:rgb(122, 64, 197)
@@ -91,9 +87,6 @@
     height: 622.5px;
     left: 1260px;
     top: 84px;
-    flex: none;
-    order: 5;
-    flex-grow: 0;
     z-index: 5;
 }
 .character{
@@ -102,9 +95,6 @@
     height: 645px;
     left: 1499px;
     top: 93px;
-    flex: none;
-    order: 3;
-    flex-grow: 0;
     z-index: 3;
 }
 .content-box{
@@ -115,9 +105,6 @@
     padding: 0px;
     width: 476px;
     height: 46px;
-    flex: none;
-    order: 4;
-    flex-grow: 0;
     z-index: 4;
 }
 .experience{
@@ -129,9 +116,6 @@
     width: 233px;
     height: 46px;
     border-right: 1px solid #1D191F;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
 }
 .customer{
     display: flex;
