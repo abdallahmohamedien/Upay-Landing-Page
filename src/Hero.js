@@ -2,7 +2,8 @@ import React , {Component}  from "react";
 import logo from "./Group.png";
 import iPhone from "./iPhone 14 Pro.png";
 import Character from "./Character.png";
-import { BsCloudDownload } from "react-icons/bs";
+import { BsCloudDownload ,BsBarChart} from "react-icons/bs";
+import {FaHands} from "react-icons/fa"
 import './Hero.css';
 
 class Hero extends Component{
@@ -32,12 +33,14 @@ class Hero extends Component{
                 </div>
                 <div className="content-box">
                     <div className="experience">
-                        <p>
-                             Years 
-                             of experience
+                        <h2><BsBarChart /></h2>
+                        <p> But
+                            Years 
+                            of experience
                         </p>
                     </div>
                     <div className="customer">
+                        <h2><FaHands /></h2>
                         <p>
                             Satisfide and 
                             happy customurs
