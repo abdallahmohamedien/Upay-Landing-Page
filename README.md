@@ -1,3 +1,6 @@
+<img width="314" alt="Screenshot 2022-12-01 at 1 27 05 PM" src="https://user-images.githubusercontent.com/81111591/205041249-cad5ac42-76cd-4eff-b6d8-3ec11417a029.png">
+#figma
+https://www.figma.com/file/QvOZG4o30WYSJmLWmtK3Fd/SaaS-Landing-Page-(Community)?node-id=502%3A1754&t=2nYLFmB6cPekj1G4-0
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
