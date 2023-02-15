@@ -1,18 +1,18 @@
 import React from 'react';
-import Header from  './Header';
-import Hero from './Hero';
-import Hero1 from './Hero1';
-import Hero2 from './Hero2';
-import Connect from './Connect';
-import Footer from  './Footer';
-import Bottom from './Bottom';
-import './App.css';
+import Header from  './Components/Header';
+import Hero from './Components/Hero';
+import Hero1 from './Components/Hero1';
+import Hero2 from './Components/Hero2';
+import Connect from './Components/Connect';
+import Footer from  './Components/Footer';
+import Bottom from './Components/Bottom';
+
 
 
 
 function App() {
   return (
-    <div className="App">
+    <>
        <Header />
        <Hero />
        <Hero1 />
@@ -20,7 +20,7 @@ function App() {
        <Connect />
        <Footer />
        <Bottom />
-    </div>
+    </>
   );
 }
 
