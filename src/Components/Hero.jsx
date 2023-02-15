@@ -9,7 +9,7 @@ import {FaHands} from "react-icons/fa"
 class Hero extends Component{
     render(){
         return(
-            <div className="flex md:flex-row md:w-screen w-max flex-col py-20 bg-[#C3EAD8] ">
+            <div className="flex md:flex-row md:-mr-0 -mr-28 flex-col py-20 bg-[#C3EAD8] ">
                 <div className="md:ml-14 ml-4 p-10">
                     <div className=" text-black ml-2 font-bold text-5xl">
                         <h1>Easy way to make <br /> online payments <br /> and secure</h1>

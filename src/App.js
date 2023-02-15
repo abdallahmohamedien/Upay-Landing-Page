@@ -12,7 +12,7 @@ import Bottom from './Components/Bottom';
 
 function App() {
   return (
-    <>
+    <div className='App'>
        <Header />
        <Hero />
        <Hero1 />
@@ -20,7 +20,7 @@ function App() {
        <Connect />
        <Footer />
        <Bottom />
-    </>
+    </div>
   );
 }
 

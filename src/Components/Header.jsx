@@ -6,7 +6,7 @@ const Header = () => {
     const[nav, setNav] = useState(false);
   return (
     <div className="flex justify-between items-center w-full h-20 bg-[#C3EAD8] text-white fixed">
-      <div className="flex md:px-4 ml-16">
+      <div className="flex md:px-4 ml-12">
         <img src={logo} alt="Logo" /> 
         <h1 className='text-black ml-2 font-bold text-lg'>Upay</h1>
       </div>
