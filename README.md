@@ -5,6 +5,10 @@ https://www.figma.com/file/QvOZG4o30WYSJmLWmtK3Fd/SaaS-Landing-Page-(Community)?
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Live Demo 
+
+https://upay-landing-page.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
